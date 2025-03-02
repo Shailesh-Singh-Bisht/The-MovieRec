@@ -54,13 +54,6 @@ VITE_AUTH_KEY=your_tmdb_auth_key
 ```
 The app will start at **`http://localhost:5173/`** 🎉
 
-## 🚀 Deploying on Vercel
-If you want to deploy this app on **Vercel**, simply run:
-```sh
-  vercel
-```
-Follow the on-screen steps to deploy your project.
-
 ## 👋 Goodbye & Happy Coding!
 Thanks for checking out **The MovieRec**! 🎥 If you like this project, consider giving it a **star⭐ on GitHub**!
 
